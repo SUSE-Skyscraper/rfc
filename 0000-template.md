@@ -1,4 +1,4 @@
-- Start Date: (fill in with today's date, DD-MM-YYYY)
+- Start Date: (fill in with today's date, DD.MM.YYYY)
 - RFC PR: (leave this empty until you make a PR)
 
 # (RFC title goes here)
